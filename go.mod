@@ -1,3 +1,5 @@
 module github.com/teshomenbret/number
 
-go 1.24.2
+go 1.25.0
+
+require golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
